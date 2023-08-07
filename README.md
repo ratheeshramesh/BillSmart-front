@@ -1,28 +1,24 @@
-# HOMELY food order application
+# Bill smart 3.0 food order application
 
 A simulation of an Application where you can order and pay for food
 
 **End Result**
 
-Click the link : https://foodapp-by-eniola.netlify.com
-
 # Description
 
 **Details**
 
-Homely is an single page application with a well structured layout, where you view both information  of the web app and order food items by adding them to the cart. 
+Bill Smart 3.0 is an single page application with a well structured layout, where you view both information  of the web app and order food items by adding them to the cart. 
 
-The application let you see both the name and image of each product then gives you the flexibility to add between one to five 5 items to the cart at once with a single button click. 
+The application let you see both the name and image of each product then gives you the flexibility to add between one to 15 items as max to the cart at once with a single button click. 
 
-![item image](https://github.com/Eniola-Codes/Food-Order-Landing-Page/blob/main/src/assets/image/Item.png?raw=true)
 
 The Cart button located at the navbar in the header section, this buttons contains a counter in a badge, which counts the number of items in the cart an if there are no items in the cart, it displays 0. For a better user experience on the frontend of the application, the button undergoes a subtle bump whenever an item has being added to the cart.
 
-![Cart button](https://github.com/Eniola-Codes/Food-Order-Landing-Page/blob/main/src/assets/image/cart_button.png?raw=true)
+
 
 A click of the cart button opens the cart, the cart systems allows you to view the image, name and quantity of each particular good you have added to cart. It also gives you the flexibility to remove and add to the quantity of any particular item. You can close or open the cart at any given time.
 
-![Cart item](https://github.com/Eniola-Codes/Food-Order-Landing-Page/blob/main/src/assets/image/cart_item.png?raw=true)
 
 All navbar links are functioning, on clicking them, they scroll you to the respective sections in the page.
 
